@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">404 Not Found</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://onezero-404.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/peteradeojo/404-not-found-master">
       Solution
     </a>
     <span> | </span>
@@ -36,22 +36,22 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://user-images.githubusercontent.com/60135915/132357195-8997a405-b2b4-4f6b-83ea-c1a1fe997e6b.jpg)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
+  - You can find the demo [here](https://onezero-404.netlify.app)
 - What was your experience?
+  - It was a fairly easy task to complete and I completed it in hours. (because I'm in the middle of exams)
 - What have you learned/improved?
-- Your wisdom? :)
+  - I have definitely learned more about responsive layout and design in css
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+This project was built without any frameworks. Just good old HTML and CSS. Designed on Figma
 
 ## Features
 
@@ -70,6 +70,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [peteradeojo.github.io](https://peteradeojo.github.io)
+- Email [adeojopeter@gmail.com](mailto:adeojopeter@gmail.com)
+- GitHub [@peteradeojo](https://{github.com/peteradeojo})
+- Twitter [@your-twitter](https://{twitter.com/_peterstpatrick})
